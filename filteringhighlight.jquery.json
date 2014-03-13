@@ -1,0 +1,28 @@
+{
+	"name": "filteringhighlight",
+	"version": "1.0",
+	"title": "Filtering Highlight",
+	"author": { 
+		"name": "Cam Hoang",
+		"email": "hnvcam@gmail.com",
+		"url": "http://wiki.aiwsolutions.net"
+	},
+	"licenses": [
+		{
+			"type": "GPLv2",
+			"url": "http://www.example.com/licenses/gpl.html"
+		}
+	],
+	"dependencies": { 
+		"jquery": "1.x" 
+	},
+	"description": "Simple jQuery plugin support highlight text which is typed in specifed <input> element.",
+	"keywords": [
+		"filter", 
+		"highlight"
+	],
+	"homepage": "http://wiki.aiwsolutions.net/EUgIm",
+	"docs": "http://wiki.aiwsolutions.net/EUgIm",
+	"demo": "http://wiki.aiwsolutions.net/EUgIm",
+	"download": "https://github.com/hnvcam/filteringhighlight"	
+}
