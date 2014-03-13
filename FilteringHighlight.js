@@ -3,7 +3,7 @@
  * 
  * Copyright (c) 2014, AIWSolutions
  * License: GPL2
- * Project Website: http://wiki.aiwsolutions.net/jquery-plugins/
+ * Project Website: http://wiki.aiwsolutions.net/EUgIm
  **/
 
 jQuery.fn.filteringHighlight = function(rootElement, highlightClass, timeout) {
